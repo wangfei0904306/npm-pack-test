@@ -1,0 +1,60 @@
+//主题颜色
+@themeColor: #158DD4;
+//page背景色
+@pageBackgroundColor: #ffffff;
+//page页上边距
+@topGap: 20px;
+//page页下边距
+@bottomGap: 20px;
+//page页左边距
+@leftGap: 20px;
+//page页右边距
+@rightGap: 20px;
+//组件边框样式（与ant统一）
+@borderStyle: 1px solid #d9d9d9;
+@borderActive: 1px solid #49a9ee;
+@boxShadow: 0 0 0 2px rgba(16, 142, 233, 0.2);
+@borderRadius: 4px;
+//筛选面板高度
+@pageFilterBarHeight: 60px;
+//筛选条件面板高度
+@pageFilterOptionBarHeight: 88px;
+//按钮颜色
+@buttonColor: #53d769;
+//按钮高亮色
+@buttonActiveColor: #1482b4;
+//normal状态色
+@buttonNormalColor: #f3f3f3;
+//分割线颜色
+@separateLineColor: #e8e8e8;
+.customButton(@custom-button-width:120px, @custom-button-height:35px) {
+    background-color: @buttonColor;
+    width: @custom-button-width;
+    height: @custom-button-height;
+    border-radius: @borderRadius;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    color: white;
+    cursor: pointer;
+}
+.limit-box {
+    font-size: 12px;
+    line-height: 18px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    height: 18px;
+}
+.custom-modal(@modal-width:358px) {
+    width: @modal-width !important;
+    right: -35px;
+    border-radius: 5px;
+    overflow: hidden;
+    .ant-modal-body {
+      padding: 0px;
+    }
+}

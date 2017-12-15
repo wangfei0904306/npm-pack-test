@@ -1,0 +1,73 @@
+/**
+ * File: /var/folders/rf/lvc878556jngh52b63ht4lv00000gn/T/tmp-24263MvOMAsj3KKmR.less
+ * Project: /var/folders/rf/lvc878556jngh52b63ht4lv00000gn/T
+ * Created Date: Wednesday December 6th 2017 9:56:41 am
+ * Author: chengpu
+ * -----
+ * Last Modified:Monday November 27th 2017 10:39:36 am
+ * Modified By: chengpu
+ * -----
+ * Copyright (c) 2017 MagCloud
+ */
+ @import '../../styles/commonStyle/constant.less';
+ .tabBarLocations {
+     width: 100%;
+     margin-top: 40px;
+     margin-right: 20px;
+     color: black;
+     height: 50px;
+     padding-top: 10px;
+     position: fixed;
+     background-color: #EAEFF6;    
+     padding-left: 150px;
+     padding-right: 20px;
+     top: 20px;
+     z-index: 2;
+     .bkg-tab {
+         background-color: white;
+         display: flex;
+         overflow-y: hidden;
+         overflow-x: auto;
+         white-space: nowrap;
+         box-shadow: 0px 1px 4px 0px #ddd;
+     }
+     .tabbar-cell {
+         display: inline-block;
+         // padding: 0px 5px;
+         background-color: @buttonNormalColor;
+         line-height: 30px;
+         margin-right: 5px;
+         position: relative;
+         cursor: pointer;
+         padding: 0px 29px 0 0px;
+         border-radius: 4px;
+         margin: 5px 3px 4px 3px;
+         span {
+             margin-left: 10px;
+         }
+         em {
+             margin-left: 10px;
+             margin-right: 10px;
+         }
+         i {
+             color: #666666;
+             position: absolute;
+             right: 10px;
+             top: 9px;
+         }
+     }
+     .tabbar-active {
+         background-color: #49a9ee;
+         color: white;
+         z-index: 20;
+         i {
+             color: #fff;
+         }
+     }
+     .separate-line {
+         height: 1px;
+         background-color: #49a9ee;
+         position: relative;
+     }
+ }
+ 

@@ -1,0 +1,108 @@
+.indexHeader {
+    width: 100%;
+    height: 60px;
+    box-shadow: none;
+    border: 0;
+    background-color: #fff;
+    position: fixed;
+    z-index: 100;
+    top: 0px;
+    .logo {
+        padding-left: 50px;
+        img {
+            padding-top: 25px;
+        }
+    }
+    .sidebar-toggle {
+        float: left;
+        background-color: transparent;
+        background-image: none;
+        padding: 15px 15px;
+        margin-top: 8px;
+        margin-right: 10px;
+        font-family: fontAwesome;
+        font-size: 12px;
+        color: #666;
+        border-radius: 4px;
+        cursor: pointer;
+        &:hover{
+            background-color: #108ee9;
+            color: #fff !important;
+            cursor: pointer
+        }
+    }
+    .headerTitle {
+        padding-left: 170px;
+        font-size: 18px;
+        line-height: 60px;
+        color: #333;
+        float: left;
+        transition: transform .2s ease-in-out,width .2s ease-in-out;  
+    }
+    .headerTitle.active {
+        padding-left: 60px;
+        font-size: 18px;
+        line-height: 60px;
+        color: #333;
+        float: left;
+        transition: transform .2s ease-in-out,width .2s ease-in-out;  
+    }
+    .topOption {
+        float: right;
+        line-height: 60px;
+        .sysName {
+            margin-right: 24px;
+            i {
+                margin-right: 10px;
+                &:before {
+                    display: inline-block;
+                    position: relative;
+                    content: " ";
+                    top: 5px;
+                    width: 20px;
+                    height: 20px;
+                    background-image: url(../../../assets/images/nav_icon_1_001.png);
+                }
+            }
+        }
+        .setting {
+            margin-right: 24px;
+            cursor: pointer;
+            &:hover {
+                color: #0b97c4;
+            }
+            i {
+                margin-right: 10px;
+                &:before {
+                    display: inline-block;
+                    position: relative;
+                    content: " ";
+                    top: 5px;
+                    width: 20px;
+                    height: 20px;
+                    background-image: url(../../../assets/images/nav_icon_1_003.png);
+                }
+            }
+        }
+        .exit {
+            margin-right: 40px;
+            cursor: pointer;
+            i {
+                margin-right: 10px;
+                &:before {
+                    display: inline-block;
+                    position: relative;
+                    content: " ";
+                    top: 5px;
+                    width: 20px;
+                    height: 20px;
+                    background-image: url(../../../assets/images/nav_icon_1_004.png);
+                }
+            }
+            &:hover {
+                color: #0b97c4;
+            }
+        }
+    }
+
+}

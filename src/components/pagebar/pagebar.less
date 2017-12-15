@@ -1,0 +1,41 @@
+@import '../../styles/commonStyle/constant.less';
+.pagebar {
+    line-height: 28px;
+    width: 470px;
+    height: 28px;
+    .page-content-cell {
+        float: left;
+        display: block;
+        margin-right: 20px
+    }
+    .page-size {
+        margin-right: 0px
+    }
+    .pagebar-currentpage-input {
+        width: 40px;
+        text-align: center;
+        border: @borderStyle;
+        border-radius: @borderRadius;
+        height: 28px;
+        &:focus {
+            border: @borderActive;
+            box-shadow: @boxShadow;
+            outline: 0;
+        }
+    }
+    .page-step {
+        border: @borderStyle;
+        border-radius: @borderRadius;
+        height: 28px;
+        line-height: 28px;
+        width: 26px;
+        text-align: center;
+        cursor: pointer;
+    }
+    .pagebar-advance {
+        margin-right: 0px;
+    }
+    .pagebar-back {
+        margin-right: 5px;
+    }
+}

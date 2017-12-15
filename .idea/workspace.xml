@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4afd148-e126-40a6-b768-63b20f928d1a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/login_bkg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/login_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/login_pwd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/login_user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/menu_icon_2_001.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/menu_icon_2_002.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/menu_icon_2_003.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/menu_icon_2_004.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/menu_icon_2_005.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/menu_iocn_1_001.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/menu_iocn_1_002.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/nav_icon_1_001.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/nav_icon_1_002.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/nav_icon_1_003.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/nav_icon_1_004.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/receive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/reset.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/stores_cargo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/take_stock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/window_iocn001.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/xb_logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/搴撳瓨绠＄悊.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/棣栭〉.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/椤靛ご.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/楠岃揣.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/涓婁紶.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/澶村儚.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/褰㈢姸-13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/褰㈢姸-288.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/褰㈢姸-290.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/鍦嗚鐭╁舰-31-鍓湰-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/鎵撳嵃.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/鎶ヨ〃.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/鎶ヨ揣绠＄悊.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/鏈熷垵绠＄悊-.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/钃濊壊涓婁紶.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/钃濊壊鎵撳嵃.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/login_bkg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/login_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/login_pwd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/login_user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/nav_icon_1_001.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/nav_icon_1_003.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/nav_icon_1_004.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/receive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/reset.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/stores_cargo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/take_stock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/xb_logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/src/components/navbar/fonts/icomoon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/src/components/navbar/fonts/icomoon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/src/components/navbar/fonts/icomoon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/navbar/fonts/icomoon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/navbar/fonts/icomoon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/navbar/fonts/icomoon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.babelrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/npm-pack-test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery-1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/json/citysSource.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/server.dev.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/server.prod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/webpack.common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/webpack.dev.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/webpack.dll.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/webpack.prod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/js/lib.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/js/manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/lib.dependencies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/remoteHost.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/routerConfig.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/json/citysSource.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/css/stylese86802.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/js/app.d28286.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/js/manifest.3e0194.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/js/vendor.8731c8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/src/components/navbar/fonts/icomoon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/static/common/js/lib.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsconfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mock/auth.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mock/opportunityListData.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mock/success.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/allcateApi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/cargoApi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/checkApi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/dicApi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/directAllocateApi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/examineApi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/examineCargoApi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/homeApi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/systemApi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/checkSearch/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/conciseModal/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/conciseModal/proCategory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/conciseModal/product.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/conciseModal/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/conciseModal/suplier.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/conciseModal/warehouse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/enter/enter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/icheckbox/index.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/icheckbox/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/indexHeader/IndexHeader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/indexHeader/indexHeader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/labelValueCell/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/leftNavbar/LeftNavbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/leftNavbar/leftNavbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/magicZoom/reactMagicZoom.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/magicZoom/scss/_react-magic-zoom.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/navLink/NavLink.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/navLink/NavLinkBlank.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/navbar/fonts/icomoon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/navbar/navbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/navbar/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/pagebar/Pagebar.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/pagebar/pagebar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/searchbar/index.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/searchbar/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/segment/Segment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/segment/segment.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/tabbar/Tabbar.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/tabbar/tabbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/internarModels/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/internarModels/internal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/allocate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/allocateDetail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/cargo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/check.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/codeModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/dept.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/deptCU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/directAllocate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/directAllocateC.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/directAllocateDetail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/examineCargo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/jur.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/org.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/orgCU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/role.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/userCU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/uvsModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/App.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/allocate/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/allocate/searchCargo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/allocate/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/allocateManager/allocateDetail/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/allocateManager/allocateDetail/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/allocateManager/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/allocateManager/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/auditCargo/auditDetail/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/auditCargo/auditDetail/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/auditCargo/creatCargo/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/auditCargo/creatCargo/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/auditCargo/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/auditCargo/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/check/checkList/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/check/checkList/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/check/checkOdd/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/check/checkOdd/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/check/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/check/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/deptManager/deptCU/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/deptManager/deptCU/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/deptManager/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/deptManager/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/directAllocateCreate/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/directAllocateCreate/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/directAllocateManager/SearchInput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/directAllocateManager/directAllocateDetail/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/directAllocateManager/directAllocateDetail/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/directAllocateManager/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/directAllocateManager/searchUser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/directAllocateManager/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/examineCargo/examineHave/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/examineCargo/examineHave/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/examineCargo/examineNull/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/examineCargo/examineNull/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/examineCargo/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/examineCargo/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/exception/404/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/exception/404/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/first.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/home/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/home/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/login/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/login/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/orgManager/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/orgManager/orgCU/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/orgManager/orgCU/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/orgManager/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/rectionCargo/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/rectionCargo/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/reportMgt/outboundTotal/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/reportMgt/outboundTotal/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/reportMgt/outbounddetail/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/reportMgt/outbounddetail/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/reportMgt/storageDetail/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/reportMgt/storageDetail/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/reportMgt/storageTotal/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/reportMgt/storageTotal/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/roleManager/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/roleManager/jurs/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/roleManager/jurs/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/roleManager/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/statement/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/statement/outboundTotal/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/statement/outboundTotal/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/statement/outbounddetail/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/statement/outbounddetail/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/statement/storageTotal/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/statement/storageTotal/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/statement/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/storesCargo/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/storesCargo/storesCargoC/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/storesCargo/storesCargoC/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/storesCargo/storesCargoDetail/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/storesCargo/storesCargoDetail/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/storesCargo/storesCargoU/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/storesCargo/storesCargoU/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/storesCargo/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/temp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/userManager/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/userManager/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/userManager/userCU/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/userManager/userCU/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/commonStyle/constant.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/citys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/eventProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/imgBank.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/jurTree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/tools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template-index.html" />
+    </list>
+    <ignored path="npm-pack-test.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="npm-pack-test" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="npm-pack-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="D:\ProgramFiles\nodejs\node.exe" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4afd148-e126-40a6-b768-63b20f928d1a" name="Default" comment="" />
+      <created>1513305240267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513305240267</updated>
+      <workItem from="1513305243032" duration="129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="129000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17616034" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
